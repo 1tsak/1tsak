@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning UE5
 - 👯 I’m looking to collaborate in more open source projects
-- 🥅 2024 Goals: Publish my first game 💕
-- ⚡ Fun fact: I love to listen music 24 hours 😵
+- 🥅 2026 Goals: Publish my first game 💕
+- ⚡ Fun fact: I love to listen to music 24 hours 😵
 
 ### Connect with me:
 
@@ -40,14 +40,6 @@
   
 </p>
 
-#### Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ywmblg5purfamjx64tikzsvgzq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ywmblg5purfamjx64tikzsvgzq&redirect=true)
-
-  <summary>:zap: GitHub Stats</summary>
-  <br>
-
-  <img align="left" alt="1tsak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1tsak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 
